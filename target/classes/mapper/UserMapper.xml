@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="top.ptcc9.mapper.UserMapper">
+    <resultMap id="ResultMap" type="top.ptcc9.entity.Do.User">
+        <result column="id" jdbcType="VARCHAR" property="id" />
+        <result column="coupon" jdbcType="INTEGER" property="coupon" />
+        <result column="is_lining" jdbcType="INTEGER" property="isLining" />
+        <result column="is_new" jdbcType="INTEGER" property="isNew" />
+        <result column="invite_code" jdbcType="VARCHAR" property="inviteCode" />
+        <result column="gender" jdbcType="INTEGER" property="gender" />
+        <result column="province" jdbcType="VARCHAR" property="province" />
+        <result column="city" jdbcType="VARCHAR" property="city" />
+        <result column="area" jdbcType="VARCHAR" property="area" />
+        <result column="province_code" jdbcType="INTEGER" property="provinceCode" />
+        <result column="city_code" jdbcType="INTEGER" property="cityCode" />
+        <result column="area_code" jdbcType="INTEGER" property="areaCode" />
+        <result column="age" jdbcType="INTEGER" property="age" />
+        <result column="wechat_num" jdbcType="VARCHAR" property="wechatNum" />
+        <result column="target_min_age" jdbcType="INTEGER" property="targetMinAge" />
+        <result column="target_max_age" jdbcType="INTEGER" property="targetMaxAge" />
+        <result column="target_province" jdbcType="VARCHAR" property="targetProvince" />
+        <result column="target_city" jdbcType="VARCHAR" property="targetCity" />
+        <result column="target_area" jdbcType="VARCHAR" property="targetArea" />
+        <result column="target_province_code" jdbcType="INTEGER" property="targetProvinceCode" />
+        <result column="target_city_code" jdbcType="INTEGER" property="targetCityCode" />
+        <result column="target_area_code" jdbcType="INTEGER" property="targetAreaCode" />
+        <result column="target_gender" jdbcType="INTEGER" property="targetGender" />
+        <result column="create_time" jdbcType="BIGINT" property="createTime" />
+    </resultMap>
+
+    <insert id="insertRegister">
+        insert into user(id,invite_code,create_time) values (#{id,jdbcType=VARCHAR},#{inviteCode,jdbcType=VARCHAR},#{createTime,jdbcType=VARCHAR});
+    </insert>
+
+    <select id="getUserById" resultType="top.ptcc9.entity.Do.User">
+        select * from user where id = #{id,jdbcType=VARCHAR};
+    </select>
+</mapper>

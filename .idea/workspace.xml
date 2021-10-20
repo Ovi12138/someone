@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cb6fb7c-b301-41ef-9e33-70b2e708d0f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="mybatis.xml" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\apache-maven-3.6.3-bin\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3-bin" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3-bin\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1z9jwzXisVTdg9pAG0lzlb79NN6" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/top/ptcc9/config" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top.ptcc9.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\创业\我要脱单小程序\src\main\java\top\ptcc9\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SomeoneStarter">
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.ptcc9.entity.Do.User" />
+      <module name="someone-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.ptcc9.entity.Vo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="someone-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.ptcc9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.ptcc9" />
+      <option name="MAIN_CLASS_NAME" value="top.ptcc9.Tester" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="someone-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.ptcc9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.ptcc9" />
+      <option name="MAIN_CLASS_NAME" value="top.ptcc9.Tester" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="someone-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.ptcc9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.ptcc9" />
+      <option name="MAIN_CLASS_NAME" value="top.ptcc9.Tester" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="someone-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.ptcc9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.ptcc9" />
+      <option name="MAIN_CLASS_NAME" value="top.ptcc9.Tester" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SomeoneStarter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="someone-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.ptcc9.SomeoneStarter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tester.test" />
+        <item itemvalue="JUnit.Tester.test03" />
+        <item itemvalue="JUnit.Tester.test02" />
+        <item itemvalue="JUnit.Tester.test01" />
+        <item itemvalue="Application.User" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cb6fb7c-b301-41ef-9e33-70b2e708d0f5" name="Default Changelist" comment="" />
+      <created>1633567439603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633567439603</updated>
+      <workItem from="1633567442577" duration="1070000" />
+      <workItem from="1633604242958" duration="6107000" />
+      <workItem from="1633653119657" duration="3822000" />
+      <workItem from="1633657558793" duration="5552000" />
+      <workItem from="1633912730735" duration="10196000" />
+      <workItem from="1633942370161" duration="3767000" />
+      <workItem from="1634027218474" duration="75000" />
+      <workItem from="1634092149386" duration="248000" />
+      <workItem from="1634134692950" duration="3089000" />
+      <workItem from="1634172066976" duration="11911000" />
+      <workItem from="1634462347904" duration="9000" />
+      <workItem from="1634528310426" duration="14000" />
+      <workItem from="1634528338653" duration="19000" />
+      <workItem from="1634528372801" duration="819000" />
+      <workItem from="1634604243458" duration="5000" />
+      <workItem from="1634612675717" duration="2757000" />
+      <workItem from="1634691425219" duration="6691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#SQL_Resolution_Scopes" timestamp="1634172563214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#SQL_Resolution_Scopes/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634172563214" />
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634172717714">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634172717714" />
+    <state x="563" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1634175327761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1536.824/-1920.99.1536.824@0.0.1536.824" timestamp="1633681395846" />
+    <state x="563" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634175327761" />
+    <state width="1493" height="286" key="GridCell.Tab.0.bottom" timestamp="1634699449469">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634204398450" />
+    <state width="1493" height="286" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1634699449469" />
+    <state width="1493" height="233" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1634183676959" />
+    <state width="1493" height="286" key="GridCell.Tab.0.center" timestamp="1634699449469">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634204398450" />
+    <state width="1493" height="286" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1634699449469" />
+    <state width="1493" height="233" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1634183676959" />
+    <state width="1493" height="286" key="GridCell.Tab.0.left" timestamp="1634699449469">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634204398450" />
+    <state width="1493" height="286" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1634699449469" />
+    <state width="1493" height="233" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1634183676959" />
+    <state width="1493" height="286" key="GridCell.Tab.0.right" timestamp="1634699449469">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634204398450" />
+    <state width="1493" height="286" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1634699449469" />
+    <state width="1493" height="233" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1634183676959" />
+    <state width="1493" height="286" key="GridCell.Tab.1.bottom" timestamp="1634699449469">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634204398437" />
+    <state width="1493" height="286" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1634699449469" />
+    <state width="1493" height="233" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1634183573346" />
+    <state width="1493" height="286" key="GridCell.Tab.1.center" timestamp="1634699449469">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634204398437" />
+    <state width="1493" height="286" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1634699449469" />
+    <state width="1493" height="233" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1634183573346" />
+    <state width="1493" height="286" key="GridCell.Tab.1.left" timestamp="1634699449469">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634204398437" />
+    <state width="1493" height="286" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1634699449469" />
+    <state width="1493" height="233" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1634183573346" />
+    <state width="1493" height="286" key="GridCell.Tab.1.right" timestamp="1634699449469">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634204398437" />
+    <state width="1493" height="286" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1634699449469" />
+    <state width="1493" height="233" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1634183573346" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1633942318275">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1633942318275" />
+    <state width="200" height="461" key="SqlResolveConfigurable" timestamp="1634172545483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="200" height="461" key="SqlResolveConfigurable/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634172545483" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1634691428924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.99.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634528473111" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634691428924" />
+    <state x="2313" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1634698978740">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2313" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1634698978740" />
+    <state x="1920" y="0" width="1095" height="810" maximized="true" key="dock-window-1" timestamp="1634172217892">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="1920" y="0" width="1095" height="810" maximized="true" key="dock-window-1/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634172217892" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1634200600253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1536.824/-1920.99.1536.824@0.0.1536.824" timestamp="1633681623833" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1634200600253" />
+  </component>
+</project>
